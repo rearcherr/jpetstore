@@ -1,0 +1,9 @@
+db670b6 HEAD@{0}: reset: moving to db670b6564287827dc17f1489e9facb1d34dc5f3
+95a60ee HEAD@{1}: commit: Revert "framework&readme"
+db670b6 HEAD@{2}: commit: 暂时去除spring boot的部分 转为maven+web
+a372b9c HEAD@{3}: commit: 暂时去除spring boot的部分 转为maven+web
+05e8b82 HEAD@{4}: commit: 暂时去除spring boot的部分 转为maven+web
+7f2d60a HEAD@{5}: commit: 暂时去除spring boot的部分 转为maven+web
+c7f80e4 HEAD@{6}: commit: package name:demo→jpetstore
+2caee94 HEAD@{7}: commit: package name:demo→jpetstore
+584d8b0 HEAD@{8}: clone: from https://github.com/dolo2333/ultra-mr-parrot.git
